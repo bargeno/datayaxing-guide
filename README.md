@@ -1,2 +1,14 @@
 # datayaxing-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
